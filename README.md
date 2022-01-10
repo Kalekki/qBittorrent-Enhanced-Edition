@@ -1,6 +1,5 @@
-qBittorrent Enhanced Edition
+qBittorrent Enhanced Edition (incognito)
 ------------------------------------------
-[Important Note for user and tracker operators](NOTE.md)
 ********************************
 # Features:
 1. Auto Ban Xunlei, QQ, Baidu, Xfplay, DLBT and Offline downloader
@@ -12,6 +11,7 @@ qBittorrent Enhanced Edition
 4. Auto Ban BitTorrent Media Player Peer Option (Default: OFF)
 
 5. Peer whitelist/blacklist
+
 ********************************
 ### Description:
 qBittorrent is a bittorrent client programmed in C++ / Qt that uses
